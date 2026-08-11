@@ -1,0 +1,1 @@
+const cloneSlide = document.querySelector('.logos-slide').cloneNode(true);
